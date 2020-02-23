@@ -14,7 +14,7 @@ Switch 女神异闻录5S SXOS Cheats 金手指</br>
 TID:01001C400E9D8000</br>
 BID:3f57f096b84c7cfb
 
-<table border="1" align="center" width="750">
+<table border="1" align="center">
   <tbody>
     <tr class="firstRow">
       <td width="72" style="text-align: center"><strong>内存顺序</strong></td>
@@ -2510,4 +2510,3 @@ BID:3f57f096b84c7cfb
     </tr>
   </tbody>
 </table>
-

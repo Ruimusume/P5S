@@ -2517,7 +2517,7 @@ BID:3f57f096b84c7cfb
     <td>内存顺序</td>
     <td>名称</td>
     <td>类目</td>
-    <tdr>効果／説明</td>
+    <td>効果／説明</td>
    </tr>
    <tr>
     <td>1</td>

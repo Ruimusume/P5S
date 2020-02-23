@@ -17,7 +17,7 @@ BID:3f57f096b84c7cfb
 <table>
   <tbody>
     <tr>
-      <td><strong>内存顺序</strong></td>
+      <td><strong>ID</strong></td>
       <td><strong>名称</strong></td>
       <td><strong>类目</strong></td>
       <td><strong>攻撃力/防御力</strong></td>

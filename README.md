@@ -17,7 +17,7 @@ BID:3f57f096b84c7cfb
 <table border="1" align="center">
   <tbody>
     <tr class="firstRow">
-      <td width="72" style="text-align: center"><strong>内存顺序</strong></td>
+      <td width="85" style="text-align: center"><strong>内存顺序</strong></td>
       <td width="157" style="text-align: center"><strong>名称</strong></td>
       <td width="128" style="text-align: center"><strong>类目</strong></td>
       <td width="110" style="text-align: center"><strong>攻撃力/防御力</strong></td>

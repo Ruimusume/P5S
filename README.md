@@ -1,4 +1,4 @@
-# Switch ペルソナ5 スクランブル ザ ファントム ストライカーズ V1.0.0 SXOS Cheats
+# Switch ペルソナ5 スクランブル ザ ファントム ストライカーズ v1.0.0 SXOS Cheats
 
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>

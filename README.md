@@ -433,7 +433,6 @@ BID:3f57f096b84c7cfb
             </td>
             <td style="text-align: center">
                 竜司用武器
-
             </td>
             <td style="text-align: center">
                 104
